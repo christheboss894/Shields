@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimateControl", "ClimateCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedistHeat", "RedistHeat\FrontierDevelopments-Shields-RedistHeat.csproj", "{4C79080A-997E-4866-8934-318B6A641DB2}"
 EndProject
+Project("{22ce6b9f-95e3-4a52-b2c6-21d95c47d7cc}") = "DubsHygiene", "DubsHygiene\Shields-DubsHygiene.csproj", "{1c9aabe4-3cf3-421b-a13d-b4cc9d96d38c}"
+EndProject
 Project("{7a2d3884-67f8-4e22-92fc-bc423f9f26d3}") = "CombatExtended", "CombatExtended\FrontierDevelopments-Shields-CombatExtended.csproj", "{1f7b860c-9807-4222-b6ad-6897e0c6d7a5}"
 EndProject
 Global
